@@ -126,7 +126,8 @@ python3 load_db.py
 python3 run_analysis.py
 ```
 
-Outputs:
+Outputs (the `.db` and `.png` files are generated when you run the scripts;
+they are not stored in this repo):
 
 - `data/raw_employees.csv` — the messy input
 - `data/clean_employees.csv` — the cleaned output
